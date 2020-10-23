@@ -1,6 +1,6 @@
-import Posts from './components/posts';
+import SignForm from './components/signForm';
 import React from 'react';
 import ReactDOM from 'react-dom';
 
 
-ReactDOM.render(<Posts />, document.getElementById("root"));
+ReactDOM.render(<SignForm />, document.getElementById("root"));
